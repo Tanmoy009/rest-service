@@ -1,0 +1,3 @@
+rootProject.name = 'rest-service'
+include ':rest_app'
+include ':rest_app2'
